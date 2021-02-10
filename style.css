@@ -1,0 +1,40 @@
+
+
+h1{
+text-align: center;
+color: rgb(255, 0, 242);
+}
+.img{
+    height: 500px;
+    width: 100%;
+}
+h3{
+    color: rgb(214, 236, 20);
+    text-align: center;
+}
+p{
+    color:rgb(214, 236, 20);
+}
+.img2{
+    height: 300px;
+    width: 33%;
+}
+.video{
+    margin-left: 350px;
+    /* margin: 0 auto; */
+}
+h4{
+    color: white;
+}
+@media(widht:770px){
+.img{
+    width: 100%;
+}
+.img2{
+    width: 100%;
+}
+.video{
+    width: 100%;
+}
+}
+
